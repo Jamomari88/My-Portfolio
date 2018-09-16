@@ -8,11 +8,11 @@ nav {
   background-color: none;
 }
 h1 {
-  color: maroon;
+  color: darkred;
   font-size: 50px;
   font-family: sans-serif;
-  margin-left: 50px;
-  margin-top: 60px;
+  margin-left: 60px;
+  margin-top: 80px;
 }
 ul {
   margin-left: 20px;
@@ -36,4 +36,17 @@ ul li a {
  font-family: sans-serif;
  color: white;
  padding: 0 20px;
+}
+.Contlist {
+  display: block;
+  list-style: none;
+  line-height: 50px;
+  font-size: 25px;
+  color: white;
+  background-color: black;
+  opacity: .6;
+  margin-left: 20px;
+  margin-right: 600px;
+  font-style: oblique;
+  padding-left: 20px;
 }
